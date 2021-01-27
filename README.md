@@ -20,6 +20,6 @@ This site is also available:
 https://covid.ourworldindata.org/data/ecdc/new_deaths.csv
 
 the number of predicted daily deaths due to the covid-19 in UAE.
-In the graph, black line: the number of daily deaths, blue line: predicted curve using 300 days based on 10th degree polynomial curve-fitting, red line changing the number of daysfrom 100 to 300 days from Jan. 15 2021 based on 5th degree polynomial curve-fitting.
+In the graph, black line: the number of daily deaths, blue line: predicted curve using 300 days based on 10th degree polynomial curve-fitting, red line changing the number of daysfrom 100 to 300 days from Jan. 26 2021 based on 5th degree polynomial curve-fitting.
 
 <img src='uae.gif' height=400 width=600>
