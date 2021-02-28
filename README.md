@@ -1,4 +1,4 @@
-# uae
+# UAE
 <pre>
 0. Python libraries installation is needed to run animedaily.py
    animedaily.py is a program to generate png files for entered Country.
