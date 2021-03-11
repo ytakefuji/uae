@@ -1,5 +1,8 @@
 # UAE
 <pre>
+A paper is entitled "Artificial Intelligence (AI) suggests that UAE needs to mitigate the small COVID-19 resurgence" published in Dubai Medical Journal in April 2021:
+https://doi.org/10.1159/000514590
+
 0. Python libraries installation is needed to run animedaily.py
    animedaily.py is a program to generate png files for entered Country.
 In order to install the necessary libraries, see https://github.com/ytakefuji/python-novice
